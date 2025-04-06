@@ -2,7 +2,9 @@ nav {
   background-color: black;
   color: white;
 }
-
+body {
+  background-color: blue;
+}
 nav > ul {
   display: flex;
   align-items: center;
